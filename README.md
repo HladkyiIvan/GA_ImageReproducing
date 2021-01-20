@@ -14,6 +14,6 @@ Here is a visualization of one the runs of the algorithm.
 ![The Evolving Incredibles Logo](visualizations/incredibles.gif)
 
 
-By Ivan Hladkyi, Denis Kolomyets, Tejas Anil Shah for the course **Algorithmics (MTAT.03.238)** at the University of Tartu.
+By Ivan Hladkyi, Denys Kolomiiets, Tejas Anil Shah for the course **Algorithmics (MTAT.03.238)** at the University of Tartu.
 
 Based on code by [Azad Yasar](https://github.com/azadyasar/AI)
