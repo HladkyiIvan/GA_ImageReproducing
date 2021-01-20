@@ -5,7 +5,7 @@ Evolving Incredibles logo:
 
 
 Evolving Wonderwoman logo:
-![The Evolving Wonderwoman Logo](wonderwonam.gif)
+![The Evolving Wonderwoman Logo](wonderwoman.gif)
 
 
 Evolving pigeon picture:
