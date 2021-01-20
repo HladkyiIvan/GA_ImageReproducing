@@ -1,14 +1,17 @@
 Here are all the visualizations
 
 Evolving Incredibles logo:
+
 ![The Evolving Incredibles Logo](incredibles.gif)
 
 
 Evolving Wonderwoman logo:
+
 ![The Evolving Wonderwoman Logo](wonderwoman.gif)
 
 
 Evolving pigeon picture:
+
 ![The Evolving Pigeon Picture](pigeon.gif)
 
 For the images like the one with the pigeon it takes while before the human eye can make out the patterns clearly.
